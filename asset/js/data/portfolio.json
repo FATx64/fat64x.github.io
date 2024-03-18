@@ -1,0 +1,35 @@
+[
+    {
+      "imageSrc": "./asset/portfolio/setup-page-cryptocurrency.png",
+      "cardTitle": "Landing page for E-commerce Website Builder"
+    },
+    {
+      "imageSrc": "./asset/portfolio/anime-chara-profile.png",
+      "cardTitle": "Anime Character Profile Design Concept"
+    },
+    {
+      "imageSrc": "./asset/portfolio/mobile-app-skincan.png",
+      "cardTitle": "Medical App Design"
+    },
+    {
+      "imageSrc": "./asset/portfolio/landing-page-cryptocurrency.png",
+      "cardTitle": "Landing page for Cryptocurrency Exchange Website"
+    },
+    {
+      "imageSrc": "./asset/portfolio/landing-page-webbusiness.png",
+      "cardTitle": "Landing page for Business Conference Website"
+    },
+    {
+      "imageSrc": "./asset/portfolio/cmms-dashboard.png",
+      "cardTitle": "Computerized Maintenance Management System Design App"
+    },
+    {
+      "imageSrc": "./asset/portfolio/landing-page-course.png",
+      "cardTitle": "Landing Page Design for Online Course Website"
+    },
+    {
+      "imageSrc": "./asset/portfolio/cryptocurrency-dashboard.png",
+      "cardTitle": "Cryptocurrency Exchange Web Dashboard"
+    }
+  ]
+  
