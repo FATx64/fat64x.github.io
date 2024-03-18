@@ -1,5 +1,3 @@
-// asset/js/script.js
-
 document.addEventListener('DOMContentLoaded', function () {
     // Load JSON data
     fetch('./asset/js/data/portfolio.json')
